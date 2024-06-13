@@ -1,8 +1,38 @@
-# React + Vite
+# PokeHub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PokeHub is a React app showcasing Pokemon with live search, responsive design, and type-themed cards.
 
-Currently, two official plugins are available:
+![PokeHub Screenshot](screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Pokemon Gallery**: View a collection of Pokemon cards with their names, numbers, and type-based styling.
+- **Real-time Search**: Filter Pokemon by name as you type, with immediate visual feedback.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/ImadIdaliouali/PokeHub.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd PokeHub
+   ```
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open [http://localhost:5173](http://localhost:5173) in your browser.
